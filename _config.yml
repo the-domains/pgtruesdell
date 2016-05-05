@@ -1,7 +1,7 @@
 name: Paul Truesdell
 favicon: null
-layout_spectrum: 0.6446744631975889
-typography_spectrum: 0.6014262733515352
+layout_spectrum: 1
+typography_spectrum: 0.75501
 title: Paul Truesdell
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#192938'
+    - '#b7b9b8'
+    - '#4e98b1'
+    - '#157ca4'
+    - '#887571'
   brandStrength: 0.8731878863181919
   lightness: 0.6766558322124183
   saturation: 0.2577706330921501
