@@ -1,0 +1,28 @@
+name: Paul Truesdell
+favicon: null
+layout_spectrum: 0.6446744631975889
+typography_spectrum: 0.6014262733515352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8731878863181919
+  lightness: 0.6766558322124183
+  saturation: 0.2577706330921501
+  rhythmicContrast: 0.7201846037060022
+purpose: []
